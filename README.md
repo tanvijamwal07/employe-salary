@@ -156,10 +156,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Streamlit team for the excellent web framework
 - Scikit-learn contributors for machine learning tools
 
-## Contact
-
-For questions or support, please open an issue on GitHub or contact [your-email@domain.com].
-
----
-
-**Built with ❤️ using Streamlit and Machine Learning**
