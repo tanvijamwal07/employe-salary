@@ -4,32 +4,32 @@ A comprehensive Streamlit-based machine learning application for predicting empl
 
 ## Features
 
-### 🔍 Data Exploration
+###  Data Exploration
 - Interactive data upload and visualization
 - Comprehensive statistical analysis
 - Income distribution analysis
 - Feature correlation heatmaps
 - Demographic insights
 
-### 🤖 Machine Learning Models
+###  Machine Learning Models
 - **Random Forest Classifier** - Ensemble learning for robust predictions
 - **Logistic Regression** - Linear classification baseline
 - **Support Vector Machine** - Complex decision boundary handling
 
-### 📊 Interactive Visualizations
+###  Interactive Visualizations
 - Age demographics by income level
 - Education vs income analysis
 - Work hours distribution
 - Gender-based income patterns
 - Feature importance analysis
 
-### 🔮 Real-time Predictions
+### Real-time Predictions
 - User-friendly input interface
 - Instant salary predictions
 - Confidence probability scores
 - Interactive prediction results
 
-### 📈 Performance Analytics
+### Performance Analytics
 - Model comparison metrics
 - Confusion matrix analysis
 - Feature importance rankings
